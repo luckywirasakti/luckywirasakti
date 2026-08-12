@@ -19,7 +19,7 @@
 <p>
   <a href="https://luckywirasakti.web.id"><img src="https://img.shields.io/badge/Portfolio-1F1B16?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/luckywirasakti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:lucky.wirasakti@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mail@luckywirasakti.web.id"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=luckywirasakti&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -124,6 +124,6 @@
 ---
 
 <div align="center">
-  <sub>💛 Open to interesting engineering work — <a href="mailto:lucky.wirasakti@gmail.com">let's talk</a>.</sub><br/>
+  <sub>💛 Open to interesting engineering work — <a href="mailto:mail@luckywirasakti.web.id">let's talk</a>.</sub><br/>
   <sub>© 2026 Lucky Wirasakti. Licensed under MIT.</sub>
 </div>
