@@ -75,7 +75,7 @@
 - **Publications**
   - *Multiclass Imbalanced Handling using ADASYN Oversampling and Stacking Algorithm*, IMCOM 2022, Seoul · [DOI: 10.1109/IMCOM53663.2022.9721632](https://doi.org/10.1109/IMCOM53663.2022.9721632)
   - *Dual Approach to Handling Imbalanced Class in Datasets Using Oversampling and Ensemble Learning Techniques*, IMCOM 2021, Seoul · [DOI: 10.1109/IMCOM51814.2021.9377420](https://doi.org/10.1109/IMCOM51814.2021.9377420)
-- **Awards**: 🥈 2nd Place, Innovative App Competition, MAGE 5 ITS Surabaya (2019) for *Go-School* (Transportation app for student pick-up, competed against 100+ national teams).
+- **Awards**: 🥈 2nd Place, Innovative App Competition, MAGE 5 ITS Surabaya (2019) for *Go-School* (Transportation app for student pick-up, competed against 100+ national teams · [News coverage](https://daerah.sindonews.com/artikel/jateng/11349/mendominasi-di-final-tim-amcc-amikom-juara-mage-5-di-its)).
 - **Languages**: 🇮🇩 Bahasa Indonesia (Native) · 🇬🇧 English (Reading & comprehension)
 
 ---
